@@ -84,28 +84,6 @@ export default function Home() {
               />
             </div>
           </div>
-          {/* <div className="flex gap-x-4 sm:col-span-2">
-            <div className="flex h-6 items-center">
-              <div className="group relative inline-flex w-8 shrink-0 rounded-full bg-gray-200 p-px inset-ring inset-ring-gray-900/5 outline-offset-2 outline-indigo-600 transition-colors duration-200 ease-in-out has-checked:bg-indigo-600 has-focus-visible:outline-2">
-                <span className="size-4 rounded-full bg-white shadow-xs ring-1 ring-gray-900/5 transition-transform duration-200 ease-in-out group-has-checked:translate-x-3.5" />
-                <input
-                  id="agree-to-policies"
-                  name="agree-to-policies"
-                  type="checkbox"
-                  aria-label="Agree to policies"
-                  className="absolute inset-0 size-full appearance-none focus:outline-hidden"
-                />
-              </div>
-            </div>
-            <label htmlFor="agree-to-policies" className="text-sm/6 text-gray-600">
-              By selecting this, you agree to our{' '}
-              <a href="#" className="font-semibold whitespace-nowrap text-indigo-600">
-                privacy policy
-              </a>
-              .
-            </label>
-          </div> */}
-
         </div> 
         <div className="mt-10">
           <button

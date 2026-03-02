@@ -3,7 +3,7 @@
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
 import { useState , useEffect } from 'react'
 import { getLocal , getLocals } from '../api/api'
-import RestaurantRating from './RestaurantRating'
+import RestaurantRating from './Rating'
 import { useParams } from 'next/navigation'
 import ListadoRating from './ListadoRating'
 import Link from 'next/link'

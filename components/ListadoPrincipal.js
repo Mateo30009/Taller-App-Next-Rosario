@@ -118,9 +118,11 @@ const ListadoPrincipalComponent = () => {
                     className="col-start-1 row-start-1 w-full appearance-none rounded-md py-2 pr-7 pl-3.5 text-base text-gray-500 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
                   >
                     <option value={""}> Ninguno</option>
-                    <option value={"ECONOMICO"}> Economico</option>
-                    <option value={"MEDIO"}> Medio</option>
-                    <option value={"ALTO"}> Alto</option>
+                    <option value={"ENTRADA"}> Entrada</option>
+                    <option value={"PRINCIPAL"}> Principal</option>
+                    <option value={"POSTRE"}> Postre</option>
+                     <option value={"BEBIDA"}> Bebida</option>
+                    <option value={"OTROS"}> Otros</option>
                   </select>
                   
           </div> <div>
